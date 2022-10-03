@@ -1,0 +1,11 @@
+Kettle.0.1-200BYN
+Kettle.0.2-250BYN
+Kettle.0.3-230BYN
+Refrigerator-999BYN
+Refrigerator-1050BYN
+Microwave1-300BYN
+Microwave2-350BYN
+Dishwasher-299BYN
+Dishwasher-399BYN
+CoffeMachine-150BYN
+CoffeMachine-159BYN
